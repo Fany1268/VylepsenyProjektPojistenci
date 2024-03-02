@@ -78,24 +78,33 @@
 </article>
 
 <footer>
+
+
+
+    <div style="border-radius: 5px; justify-content:end; margin: 10px auto;;width: 25%;border-color: #3A363BFF; background-color: #1ee224;">
+        <nav aria-label="Stránkování">
+            <ul class="pagination pagination-sm, justify-content-center">
+                <li class="page-item disabled">
+                    <span aria-hidden="true" class="page-link">&laquo;</span>
+                </li>
+                <li class="page-item"><a class="page-link" href="domu.html">1</a></li>
+                <li class="page-item"><a class="page-link" href="index.php">2</a></li>
+                <li class="page-item active"><a class="page-link" href="tabulka.php">3</a></li>
+                <li class="page-item">
+                    <a class="page-link" href="domu.html" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+
     <p>Projekt evidence pojištění ve zjednodušená verzi vytvořil František Krátký pro <a href="http://www.ITnetwork.cz" target="_blank">ITnetwork.cz</a>.</p>
 
-    <nav aria-label="Stránkování">
-        <ul class="pagination pagination-sm justify-content-end">
-            <li class="page-item disabled">
-                <span aria-hidden="true" class="page-link">&laquo;</span>
-            </li>
-            <li class="btn btn-success"><a class="page-link" href="domu.html">1</a></li>
-            <li class="page-item"><a class="page-link" href="index.php">2</a></li>
-            <li class="page-item active"><a class="page-link" href="tabulka.php">3</a></li>
-            <li class="page-item">
-                <a class="page-link" href="domu.html" aria-label="Next">
-                    <span aria-hidden="true">&raquo;</span>
-                    <span class="sr-only">Next</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
+
+
 
 
 </footer>
