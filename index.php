@@ -21,7 +21,7 @@
             <li><a href="domu.html">Domů</a></li>
             <li class="aktivni"><a href="index.php">Vložení pojištěnce</a></li>
             <li><a href="tabulka.php">Výpis pojištěnců</a></li>
-            <li><a href="https://docs.google.com/spreadsheets/d/1VOxkXgPPnErJDm9lq7-oA81NWIr__CFMu-YO3MuXIsY/edit#gid=0">Studijní plán</a></li>
+            
 
 
 
